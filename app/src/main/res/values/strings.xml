@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentEgDemo</string>
+    <string name="login">Login</string>
+    <string name="enter_password_here">Enter Password here</string>
+    <string name="password">Password:</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">Username:</string>
+    <string name="register">Register</string>
+    <string name="login_main">Login</string>
+</resources>
